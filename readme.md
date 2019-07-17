@@ -19,4 +19,4 @@
 ```
 1.let const 与var
 ```
-*[ES6!!!](https://www.kancloud.cn/pwstrick/fe-questions/1094973)
+* [ES6!!!](https://www.kancloud.cn/pwstrick/fe-questions/1094973)
