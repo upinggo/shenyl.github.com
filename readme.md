@@ -14,3 +14,8 @@
 * [给2019前端的5个建议](https://github.com/camsong/blog/issues/11)
 
 [iron-redex](https://github.com/nefe/iron-redux)
+
+###ES6
+```
+1.let const 与var
+```
