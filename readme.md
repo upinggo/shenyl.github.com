@@ -9,8 +9,8 @@
 * [抛弃 jQuery，拥抱原生 JavaScript](https://github.com/camsong/blog/issues/4)
 * [CSS Modules 详解及 React 中实践](https://github.com/camsong/blog/issues/5)
 * [React 最佳实践](https://github.com/camsong/blog/issues/6)
-* [精读前后端渲染之争](https://github.com/camsong/blog/issues/8
-* [JavaScript 浮点数陷阱及解法](https://github.com/camsong/blog/issues/9
+* [精读前后端渲染之争](https://github.com/camsong/blog/issues/8)
+* [JavaScript 浮点数陷阱及解法](https://github.com/camsong/blog/issues/9)
 * [给2019前端的5个建议](https://github.com/camsong/blog/issues/11)
 
 [iron-redex](https://github.com/nefe/iron-redux)
@@ -18,4 +18,5 @@
 ###ES6
 ```
 1.let const 与var
+*[]
 ```
