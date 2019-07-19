@@ -20,3 +20,24 @@
 1.let const 与var
 ```
 * [ES6!!!](https://www.kancloud.cn/pwstrick/fe-questions/1094973)
+
+###服务器配置
+1.centos安装nginx
+* 添加资源库 vi /etc/yum.repos.d/nginx.repo
+[nginx]
+name=nginx repo
+baseurl=http://nginx.org/packages/centos/$releasever/$basearch/
+gpgcheck=0
+enabled=1
+* 安装
+yum install nginx
+* 测试安装成功  nginx -t
+* 找文件 find -name nginx
+* 查看NG状态 systemctl status nginx.service
+* 配置目录地址： /etc/nginx
+* 修改配置目录下nginx.conf
+``` #user nginx;
+    user  root;
+```
+* 修改web目录的读写权限 ： chmod  -R 777 /文件目录
+* 重定向解决刷新404找不到页面问题：defult.conf文件中server配置属性location /{}对象下加try_files $uri $uri/ /index.html;
