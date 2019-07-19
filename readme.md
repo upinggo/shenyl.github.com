@@ -15,13 +15,13 @@
 
 [iron-redex](https://github.com/nefe/iron-redux)
 
-###ES6
+### ES6
 ```
 1.let const 与var
 ```
 * [ES6!!!](https://www.kancloud.cn/pwstrick/fe-questions/1094973)
 
-###服务器配置
+### 服务器配置
 1.centos安装nginx
 * 添加资源库 vi /etc/yum.repos.d/nginx.repo
 [nginx]
