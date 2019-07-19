@@ -36,7 +36,8 @@ yum install nginx
 * 查看NG状态 systemctl status nginx.service
 * 配置目录地址： /etc/nginx
 * 修改配置目录下nginx.conf
-``` #user nginx;
+``` 
+    #user nginx;
     user  root;
 ```
 * 修改web目录的读写权限 ： chmod  -R 777 /文件目录
